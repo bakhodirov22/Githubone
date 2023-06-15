@@ -45,3 +45,24 @@
     color: blue;
     filter: drop-shadow(8px 8px 4px yellow);
   }
+  .sec2 {
+    height: 100vh;
+    background-color: rgb(216, 17, 140);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sec3 {
+    height: 100vh;
+    background-color: rgb(158, 241, 3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .sec4 {
+    height: 100vh;
+    background-color: rgba(241, 3, 3, 0.925);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
